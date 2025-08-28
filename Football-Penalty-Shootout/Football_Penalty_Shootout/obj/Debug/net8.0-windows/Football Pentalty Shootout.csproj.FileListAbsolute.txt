@@ -1,0 +1,9 @@
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Pentalty-Shootout\Football_Pentalty_Shootout\obj\Debug\net8.0-windows\Football_Pentalty_Shootout_Game_MOO_ICT.Form1.resources
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Pentalty-Shootout\Football_Pentalty_Shootout\obj\Debug\net8.0-windows\Football_Penalty_Shootout_Game_MOO_ICT.Properties.Resources.resources
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Pentalty-Shootout\Football_Pentalty_Shootout\obj\Debug\net8.0-windows\Football Pentalty Shootout.csproj.GenerateResource.cache
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Pentalty-Shootout\Football_Pentalty_Shootout\obj\Debug\net8.0-windows\Football Pentalty Shootout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Pentalty-Shootout\Football_Pentalty_Shootout\obj\Debug\net8.0-windows\Football Pentalty Shootout.AssemblyInfoInputs.cache
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Pentalty-Shootout\Football_Pentalty_Shootout\obj\Debug\net8.0-windows\Football Pentalty Shootout.AssemblyInfo.cs
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Pentalty-Shootout\Football_Pentalty_Shootout\obj\Debug\net8.0-windows\Football Pentalty Shootout.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Pentalty-Shootout\Football_Pentalty_Shootout\obj\Debug\net8.0-windows\Football_Pentalty_Shootout.Form1.resources
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Pentalty-Shootout\Football_Pentalty_Shootout\obj\Debug\net8.0-windows\Football_Penalty_Shootout.Form1.resources

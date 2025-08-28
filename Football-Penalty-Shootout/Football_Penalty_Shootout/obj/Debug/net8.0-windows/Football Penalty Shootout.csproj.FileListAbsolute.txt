@@ -1,0 +1,17 @@
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Penalty-Shootout\Football_Penalty_Shootout\obj\Debug\net8.0-windows\Football_Penalty_Shootout.Form1.resources
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Penalty-Shootout\Football_Penalty_Shootout\obj\Debug\net8.0-windows\Football Penalty Shootout.csproj.GenerateResource.cache
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Penalty-Shootout\Football_Penalty_Shootout\obj\Debug\net8.0-windows\Football Penalty Shootout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Penalty-Shootout\Football_Penalty_Shootout\obj\Debug\net8.0-windows\Football Penalty Shootout.AssemblyInfoInputs.cache
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Penalty-Shootout\Football_Penalty_Shootout\obj\Debug\net8.0-windows\Football Penalty Shootout.AssemblyInfo.cs
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Penalty-Shootout\Football_Penalty_Shootout\obj\Debug\net8.0-windows\Football Penalty Shootout.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Penalty-Shootout\Football_Penalty_Shootout\obj\Debug\net8.0-windows\Football_Penalty_Shootout.Properties.Resources.resources
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Penalty-Shootout\Football_Penalty_Shootout\bin\Debug\net8.0-windows\Football Penalty Shootout.exe
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Penalty-Shootout\Football_Penalty_Shootout\bin\Debug\net8.0-windows\Football Penalty Shootout.deps.json
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Penalty-Shootout\Football_Penalty_Shootout\bin\Debug\net8.0-windows\Football Penalty Shootout.runtimeconfig.json
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Penalty-Shootout\Football_Penalty_Shootout\bin\Debug\net8.0-windows\Football Penalty Shootout.dll
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Penalty-Shootout\Football_Penalty_Shootout\bin\Debug\net8.0-windows\Football Penalty Shootout.pdb
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Penalty-Shootout\Football_Penalty_Shootout\obj\Debug\net8.0-windows\Football Penalty Shootout.dll
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Penalty-Shootout\Football_Penalty_Shootout\obj\Debug\net8.0-windows\refint\Football Penalty Shootout.dll
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Penalty-Shootout\Football_Penalty_Shootout\obj\Debug\net8.0-windows\Football Penalty Shootout.pdb
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Penalty-Shootout\Football_Penalty_Shootout\obj\Debug\net8.0-windows\Football Penalty Shootout.genruntimeconfig.cache
+C:\Users\kaiky\Desktop\estudos\POOII-main\Trabalho-POO2\Football-Penalty-Shootout\Football_Penalty_Shootout\obj\Debug\net8.0-windows\ref\Football Penalty Shootout.dll

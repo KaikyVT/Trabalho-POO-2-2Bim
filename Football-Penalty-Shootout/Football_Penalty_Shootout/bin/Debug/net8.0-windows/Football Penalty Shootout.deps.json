@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Football Penalty Shootout/1.0.0": {
+        "runtime": {
+          "Football Penalty Shootout.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Football Penalty Shootout/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
