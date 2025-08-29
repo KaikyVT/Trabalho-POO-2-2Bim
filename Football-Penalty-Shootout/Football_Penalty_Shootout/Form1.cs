@@ -24,6 +24,8 @@ namespace Football_Penalty_Shootout
             goalTarget = new List<PictureBox> { left, right, top, topLeft, topRight};
         }
 
+
+        // Função para adicionar na fila em um máximo de 10
         private void AddFila(Queue<string> q, string state)
         {
             if (q.Count >= 10)
@@ -48,10 +50,9 @@ namespace Football_Penalty_Shootout
             ChangeGoalKeeperImage();    
 
             var senderObject = (PictureBox)sender;
-            senderObject.BackColor = Color.Beige;
 
             if (senderObject.Tag == null) return;
-
+            senderObject.BackColor = Color.Beige;
 
             switch (senderObject.Tag.ToString())
             {
@@ -144,7 +145,7 @@ namespace Football_Penalty_Shootout
         private void ResetKeeper()
         {
             KeeperTimer.Stop();
-            goalKeeper.Location = new Point(478, 225); // posição inicial
+            goalKeeper.Location = new Point(418, 169); // posição inicial
             goalKeeper.Image = Properties.Resources.stand_small;
             state = "stand"; // novo estado neutro
         }
@@ -164,6 +165,11 @@ namespace Football_Penalty_Shootout
                     ballY = 0;
                     aimSet = false;
                     BallTimer.Stop();
+                    left.BackColor = Color.Yellow;
+                    right.BackColor = Color.Yellow;
+                    top.BackColor = Color.Yellow;
+                    topLeft.BackColor = Color.Yellow;
+                    topRight.BackColor = Color.Yellow;
                     return;
                 }
             }
